@@ -32,9 +32,7 @@ Hello! My name is Ilia Svetlichnyi and I'm a Junior Data Scientist. This GitHub 
 
 ## Experience 🏢
 
-Junior Data Analyst
-Institute for Advanced Oil and Gas Research
-Jan 2021 - Jun 2022
+#### Junior Data Analyst; Institute for Advanced Oil and Gas Research (Jan 2021 - Jun 2022)
 
 - Developed and maintained a robust SQL database that simplified the processing and analysis of large volumes of data, thereby improving the workflow of my team
 - Conducted exploratory data analysis and developed visualizations to identify patterns, trends, and anomalies in the dataset
