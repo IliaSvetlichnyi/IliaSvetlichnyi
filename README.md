@@ -76,9 +76,6 @@
 
 ###
 
-<p align="left">Description of projects</p>
-
-###
 
 ### [Dubai Real Estate Data Analysis and Price Prediction (2019-2021)](https://github.com/IliaSvetlichnyi/Dubai_Real_Estate)
 - An in-depth analysis, preprocessing, and price prediction on the Dubai Real Estate Transactions dataset from 2019 to 2021 with over 1 million records.
