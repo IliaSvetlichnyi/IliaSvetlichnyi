@@ -77,6 +77,12 @@
 ###
 
 
+### [Personalized Post Recommender System via API](https://github.com/IliaSvetlichnyi/Recommender_System_API)
+- A sophisticated recommendation system API tailored to deliver personalized text post recommendations, leveraging intricate user data and post metrics.
+- The project encompasses feature engineering, data preprocessing, and a CatBoost-based model training phase, all aimed at optimizing post recommendations for users.
+- Tools & Technologies: `Python` `Jupyter` `Pandas` `NumPy` `FastAPI` `CatBoost` `SQLAlchemy`
+
+
 ### [Dubai Real Estate Data Analysis and Price Prediction (2019-2021)](https://github.com/IliaSvetlichnyi/Dubai_Real_Estate)
 - An in-depth analysis, preprocessing, and price prediction on the Dubai Real Estate Transactions dataset from 2019 to 2021 with over 1 million records.
 - The project delves deep into understanding the Dubai real estate market, cleaning the dataset, and building a predictive model using CatBoost to estimate property prices.
