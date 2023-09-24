@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Ilia Svetlichnyi and I'm a Junior Data Scientist. This GitHub repository shows my work and tells the story of my learning journey. I'm always ready to learn more, grow in my field, and give back to the AI community. Right now, I'm looking for new opportunities to use my skills, learn more, and help make the most of data.</p>
+<p align="left">My name is Ilia Svetlichnyi and I'm a Data Scientist. This GitHub repository shows my work and tells the story of my learning journey. I'm always ready to learn more, grow in my field, and give back to the AI community. Right now, I'm looking for new opportunities to use my skills, learn more, and help make the most of data.</p>
 
 ###
 
