@@ -88,3 +88,18 @@
 - An in-depth analysis, preprocessing, and price prediction on the Dubai Real Estate Transactions dataset from 2019 to 2021 with over 1 million records.
 - The project delves deep into understanding the Dubai real estate market, cleaning the dataset, and building a predictive model using CatBoost to estimate property prices.
 - Tools & Technologies: `Python` `Jupyter` `Pandas` `NumPy` `Matplotlib` `Seaborn` `CatBoost`
+
+---
+
+### [ANN-PSO - Biologically Inspired Algorithms in deep learning](https://github.com/IliaSvetlichnyi/ANN-PSO)
+- A project focusing on the integration of Artificial Neural Networks (ANN) and Particle Swarm Optimization (PSO), designed to optimize ANNs for specific datasets.
+- Involves implementing various hyperparameters and analyzing their impact on ANN performance, using self-developed PSO with informant strategy.
+- Tools & Technologies: `Python` `Jupyter` `Pandas` `Scikit-learn` `Matplotlib`
+
+---
+
+### [SimpleWebBrowser Project using C#](https://github.com/IliaSvetlichnyi/SimpleWebBrowserC-/tree/main)
+- A custom-built, user-friendly web browser developed in C# featuring browsing history, favorites links, and a bulk download feature for an efficient browsing experience.
+- Utilizes the GTK toolkit for robust GUI design, coupled with efficient data structures for managing browsing history and favorites.
+- Distinct class structure for streamlined functionality, including key components like BrowserWindow.cs for the UI, HttpRequestManager.cs for HTTP request management, and several other dedicated classes for various browser features.
+- Tools & Technologies: `C#`, `.NET Framework`, `GTK#`.
